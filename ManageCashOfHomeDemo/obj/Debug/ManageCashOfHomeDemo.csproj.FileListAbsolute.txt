@@ -1,0 +1,258 @@
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\ManageCashOfHomeDemo.dll.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\ManageCashOfHomeDemo.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\ManageCashOfHomeDemo.pdb
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csc.exe
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csc.exe.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csc.rsp
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csi.exe
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csi.exe.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csi.rsp
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.AppContext.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Console.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.Compression.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Net.Http.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.ValueTuple.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\vbc.exe
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\vbc.exe.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\vbc.rsp
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\VBCSCompiler.exe
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Antlr3.Runtime.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Newtonsoft.Json.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Net.Http.Formatting.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Helpers.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.WebHost.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Mvc.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Optimization.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Razor.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Razor.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\WebGrease.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Helpers.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Mvc.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Optimization.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Razor.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Razor.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Newtonsoft.Json.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Antlr3.Runtime.pdb
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Net.Http.Formatting.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.WebHost.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.csproj.AssemblyReference.cache
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.csproj.CoreCompileInputs.cache
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.csproj.CopyComplete
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.pdb
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\myApp.Models.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\BankApp.Db.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\myApp.Models.pdb
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\myApp.Models.dll.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\BankApp.Db.pdb
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\BankApp.Db.dll.config
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.SqlServer.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.SqlServer.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Options.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Primitives.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Net.Http.Headers.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Buffers.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.ComponentModel.Annotations.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Memory.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Numerics.Vectors.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Text.Encodings.Web.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Cors.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.Cors.dll
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Options.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Primitives.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Net.Http.Headers.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Buffers.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Memory.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Numerics.Vectors.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Text.Encodings.Web.xml
+D:\Swarup\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.Cors.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\ManageCashOfHomeDemo.dll.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\ManageCashOfHomeDemo.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\ManageCashOfHomeDemo.pdb
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csc.exe
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csc.exe.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csc.rsp
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csi.exe
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csi.exe.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\csi.rsp
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.AppContext.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Console.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.Compression.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Net.Http.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.ValueTuple.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\vbc.exe
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\vbc.exe.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\vbc.rsp
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\VBCSCompiler.exe
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Antlr3.Runtime.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\BankApp.Db.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.SqlServer.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Options.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Primitives.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Net.Http.Headers.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\myApp.Models.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Newtonsoft.Json.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Buffers.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.ComponentModel.Annotations.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Memory.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Net.Http.Formatting.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Numerics.Vectors.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Text.Encodings.Web.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Cors.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Helpers.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.Cors.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.WebHost.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Mvc.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Optimization.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Razor.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Razor.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\WebGrease.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\BankApp.Db.pdb
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\BankApp.Db.dll.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\myApp.Models.pdb
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\myApp.Models.dll.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\EntityFramework.SqlServer.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Options.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Extensions.Primitives.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.Net.Http.Headers.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Buffers.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Memory.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Numerics.Vectors.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Text.Encodings.Web.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.Cors.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Helpers.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Mvc.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Optimization.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Razor.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.WebPages.Razor.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Newtonsoft.Json.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Antlr3.Runtime.pdb
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Net.Http.Formatting.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\System.Web.Http.WebHost.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.csproj.AssemblyReference.cache
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.csproj.CoreCompileInputs.cache
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.csproj.CopyComplete
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\ManageCashOfHomeDemo\obj\Debug\ManageCashOfHomeDemo.pdb

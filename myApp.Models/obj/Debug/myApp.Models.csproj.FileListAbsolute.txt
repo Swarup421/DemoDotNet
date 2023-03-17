@@ -1,0 +1,30 @@
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\myApp.Models.dll
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\myApp.Models.pdb
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.csproj.AssemblyReference.cache
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.csproj.CoreCompileInputs.cache
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.csproj.CopyComplete
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.dll
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.pdb
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\myApp.Models.dll.config
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\BankApp.Db.dll
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.dll
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\BankApp.Db.pdb
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\BankApp.Db.dll.config
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.xml
+D:\Swarup\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\myApp.Models.dll.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\myApp.Models.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\myApp.Models.pdb
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\BankApp.Db.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\BankApp.Db.pdb
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\BankApp.Db.dll.config
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.csproj.AssemblyReference.cache
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.csproj.CoreCompileInputs.cache
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.csproj.CopyComplete
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.dll
+D:\Swarup\BankAppDemoProject\.Net MVC\ManageCashOfHomeDemo\myApp.Models\obj\Debug\myApp.Models.pdb
